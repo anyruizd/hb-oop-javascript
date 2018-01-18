@@ -1,5 +1,4 @@
 import Controller from './modules/Controller.js'
-import SquareDisplay from './modules/SquareDisplay.js'
 
 const controller1 = new Controller(
   document.querySelector('.controller-1'),
